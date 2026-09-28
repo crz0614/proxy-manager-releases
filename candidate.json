@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0-rc.7",
+  "note": "RC7 acceptance candidate: HTTPS management, persistent jobs, allocation fixes and live update checks. Manual installation; production acceptance remains pending.",
+  "release_url": "https://github.com/crz0614/proxy-manager-releases"
+}
