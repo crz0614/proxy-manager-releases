@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-rc.8",
-  "note": "RC8: version status and update checks are displayed within the management panel. Customer installation packages are delivered directly. Acceptance candidate.",
+  "version": "1.0.0-rc.10",
+  "note": "RC10: preserves reseller ownership when editing pools; adds Linux secondary-IP and source-route deployment with rollback and boot recovery. Includes RC9 reserved-address validation fixes. Packages are delivered directly. Acceptance candidate.",
   "release_url": "https://github.com/crz0614/proxy-manager-releases"
 }
