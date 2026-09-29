@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-rc.11",
-  "note": "RC11: fixes applying replacement network configuration when an old interface no longer exists. Includes reseller ownership and reserved-address fixes, network rollback and boot recovery. Packages are delivered directly. Acceptance candidate.",
+  "version": "1.0.0-rc.12",
+  "note": "RC12: rejects empty or null existing data files at startup and reports saved job configuration read errors. Includes previous allocation, reseller editing and network migration fixes. Packages are delivered directly. Acceptance candidate.",
   "release_url": "https://github.com/crz0614/proxy-manager-releases"
 }
