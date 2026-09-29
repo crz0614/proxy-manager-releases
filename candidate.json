@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-rc.10",
-  "note": "RC10: preserves reseller ownership when editing pools; adds Linux secondary-IP and source-route deployment with rollback and boot recovery. Includes RC9 reserved-address validation fixes. Packages are delivered directly. Acceptance candidate.",
+  "version": "1.0.0-rc.11",
+  "note": "RC11: fixes applying replacement network configuration when an old interface no longer exists. Includes reseller ownership and reserved-address fixes, network rollback and boot recovery. Packages are delivered directly. Acceptance candidate.",
   "release_url": "https://github.com/crz0614/proxy-manager-releases"
 }
